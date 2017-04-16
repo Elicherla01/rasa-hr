@@ -31,18 +31,7 @@
         "intent": "OJP_search", 
         "entities": []
       }, 
-      {
-        "text": "i would like to understand OJP", 
-        "intent": "OJP_understand", 
-        "entities": [
-          {
-            "start": 28,
-            "end": 30, 
-            "value": "OJP", 
-            "entity": "understand"
-          }
-        ]
-      }, 
+ 
       {
         "text": "show me OJP Opportunities", 
         "intent": "OJP_search", 
