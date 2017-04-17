@@ -97,6 +97,20 @@
           }
         ]
       },
+     
+      {
+        "text": "should my manager approve OJP?", 
+        "intent": "OJP_approval", 
+        "entities": [
+          {
+            "start": 10, 
+            "end": 17, 
+            "value": "manager", 
+            "entity": "approval"
+          }
+        ]
+      },
+      
       {
         "text": "yes", 
         "intent": "affirm", 
