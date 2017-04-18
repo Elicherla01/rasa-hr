@@ -200,7 +200,7 @@
         "intent": "greet"
       }, 
       {
-        "text": "i'm looking for a place to eat", 
+        "text": "i'm looking to aply for OJP", 
         "intent": "OJP_search"
       }, 
       {
@@ -251,6 +251,43 @@
         "text": "search for OJP", 
         "intent": "OJP_search"
       }, 
+      
+      {
+        "text": "Who can apply for OJP", 
+        "intent": "OJP_criteria"
+      }, 
+      
+      
+      {
+        "text": "Can i apply for OJP", 
+        "intent": "OJP_criteria"
+      }, 
+      
+      {
+        "text": "What is the criteria to apply for OJP", 
+        "intent": "OJP_criteria"
+      }, 
+ 
+      {
+        "text": "What is OJP Criteria?", 
+        "intent": "OJP_criteria"
+      },
+      
+       {
+        "text": "Who can approve OJP?", 
+        "intent": "OJP_approval"
+      },
+      
+       {
+        "text": "Should manager approve OJP?", 
+        "intent": "OJP_approval"
+      },
+      
+       {
+        "text": "What is the approval process for OJP?", 
+        "intent": "OJP_approval"
+      },
+      
       {
         "text": "indeed", 
         "intent": "affirm"
