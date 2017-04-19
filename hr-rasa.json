@@ -45,6 +45,32 @@
         ]
       },
       
+      {
+        "text": "Will i get salary hike?", 
+        "intent": "OJP_hike", 
+        "entities": [
+          {
+            "start": 11, 
+            "end": 17, 
+            "value": "hike", 
+            "entity": "salary"
+          }
+        ]
+      },
+      
+      {
+        "text": "Will my salary increase after OJP?", 
+        "intent": "OJP_hike", 
+        "entities": [
+          {
+            "start": 8, 
+            "end": 14, 
+            "value": "hike", 
+            "entity": "salary"
+          }
+        ]
+      },
+      
        {
         "text": "Am i eligible for OJP?", 
         "intent": "OJP_criteria", 
