@@ -72,19 +72,6 @@
         ]
       },
       
-      {
-        "text": "Will i get salary hike?", 
-        "intent": "OJP_salary", 
-        "entities": [
-          {
-            "start": 11, 
-            "end": 17, 
-            "value": "salary", 
-            "entity": "hike"
-          }
-        ]
-      },
-      
       
       {
         "text": "show me OJP Opportunities", 
@@ -213,7 +200,7 @@
         "intent": "greet"
       }, 
       {
-        "text": "i'm looking to aply for OJP", 
+        "text": "i'm looking to apply for OJP", 
         "intent": "OJP_search"
       }, 
       {
@@ -295,11 +282,6 @@
         "text": "Should manager approve OJP?", 
         "intent": "OJP_approval"
       },
-       
-       {
-        "text": "Will i get a salary hike with OJP?", 
-        "intent": "OJP_salary"
-      },
       
        {
         "text": "What is the approval process for OJP?", 
@@ -325,3 +307,4 @@
     ]
   }
 }
+
